@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "produto": "Notebook Acer 8",
+      "valor": "1280",
+      "qtd": 4,
+      "urlImg": "https://m.media-amazon.com/images/I/613PZt698DL._AC_SX679_.jpg",
+      "id": "4ac9"
+    },
+    {
+      "produto": "Notebook Acer 2",
+      "valor": 200,
+      "qtd": 10,
+      "urlImg": "https://m.media-amazon.com/images/I/613PZt698DL._AC_SX679_.jpg",
+      "id": "09ed"
+    }
+  ]
+}
